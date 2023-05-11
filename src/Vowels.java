@@ -4,7 +4,7 @@ public class Vowels {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
          char x='a';
-        
+        char y
         if (x=='a'||x=='e'||x=='i'||x=='o'||x=='u') {
             System.out.println(x + " is a vowel");
         } else {
